@@ -1,0 +1,583 @@
+[
+    {
+        "name": {
+            "first": "Philip",
+            "middle": "Jay",
+            "last": "Fry"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://upload.wikimedia.org/wikipedia/en/2/28/Philip_Fry.png"
+        },
+        "gender": "Male",
+        "species": "Human",
+        "homePlanet": "Earth",
+        "occupation": "Intergalactic Delivery Boy",
+        "sayings": [
+            "Shut up and take my money!",
+            "I'm walking on sunshine, woah oh oooh",
+            "This is how we do it. Pick your nose and chew it",
+            "wow! I never would have thought of that.",
+            "Bigfoot! He's real! I knew it! The Loch Ness Monster's book was right!",
+            "I didn't ask for a completely reasonable excuse! I asked you to get busy!",
+            "It's like a party in my mouth and everybody's throwing up!",
+            "My God, it's full of ads!",
+            "There's so many killbots behind us, I can't count them all. Three, I think.",
+            "They're like sex, except I'm having them!",
+            "We're in the middle of nowhere, which is the safest part of nowhere.",
+            "When will young people learn that playing 'Dungeons and Dragons' doesn't make you cool!",
+            "Why am I sticky and naked? Did I miss something fun?",
+            "Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.",
+            "Wow, you got that off the Internet? In my day, the Internet was only used to download pornography.",
+            "But this is HDTV. It's got better resolution than the real world.",
+            "Can I pull up my pants now?",
+            "Existing is basically all I do!",
+            "Hardy Boys: too easy. Nancy Drew: too hard!",
+            "Hey look, it's that guy you are!",
+            "Hooray, we don't have to do anything!",
+            "How about me? I'm human, and I've always wanted to see the future!",
+            "How can I live my life if I can't tell good from evil?",
+            "I can burp the alphabet. A, B, D ... no, wait ...",
+            "I did it! And it's all thanks to the books at my local library.",
+            "I don't regret this, but I both rue and lament it.",
+            "I have more important things to do today than laugh and clap my hands.",
+            "I haven't had time off since I was twenty-one through twenty-four.",
+            "I'll be whatever I wanna do.",
+            "I'm going to continue never washing this cheek again.",
+            "I'm gonna be a science fiction hero, just like Uhura, or Captain Janeway, or Xena!",
+            "I'm literally angry with rage!",
+            "I'm never gonna get used to the thirty-first century. Caffeinated bacon?",
+            "I'm not a robot like you -- I don't like having disks crammed into me. Unless they're Oreos. And then only in the mouth.",
+            "I must be a robot. Why else would human women refuse to date me?",
+            "I refuse to testify on the grounds that my organs will be chopped up into a patty.",
+            "It's all there, in the macaroni.",
+            "It's a widely-believed fact!",
+            "It's like a party in my mouth and everyone's throwing up.",
+            "Leela, Bender, we're going grave-robbing.",
+            "Leela, there's nothing wrong with anything.",
+            "Make up some feelings and tell her you have them.",
+            "My hands! My horrible, human hands!",
+            "No, no, I was just picking my nose.",
+            "People said I was dumb but I proved them!",
+            "Please, Mr. Nixon! We're appealing to your sense of decency!",
+            "Prepare to be thought at!",
+            "Robots don't go to heaven.",
+            "Stop abducting me!",
+            "Sweet justice! Sweet, juicy justice!",
+            "That doesn't look like an 'L', unless you count lower case.",
+            "That's a chick show. I prefer programs of the genre World's Blankiest Blank.",
+            "The butter in my pocket is melting!",
+            "The less fortunate get all the breaks!",
+            "There's a lot about my face you don't know.",
+            "There's a political debate on. Quick, change the channel!",
+            "These new hands are great. I'm gonna break them in tonight.",
+            "The spoon's in the foot powder.",
+            "They're great! They're like sex except I'm having them.",
+            "What kind of bozos would start a Bender protest group?",
+            "Where's Captain Bender? Off catastrophizing some other planet?",
+            "Why use my own legs like an idiot when I can use a Chickenwalker?",
+            "You'll barely regret this.",
+            "You mean Bender is the evil Bender? I'm shocked! Shocked! Well not that shocked."
+        ],
+        "id": 1,
+        "age": "25"
+    },
+    {
+        "name": {
+            "first": "Turanga",
+            "middle": "",
+            "last": "Leela"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://upload.wikimedia.org/wikipedia/en/d/d4/Turanga_Leela.png"
+        },
+        "age": "32",
+        "gender": "Female",
+        "species": "Mutant",
+        "homePlanet": "Earth",
+        "occupation": "Captain and pilot",
+        "sayings": [
+            "Bender, this is Fry's decision... and he made it wrong. So it's time for us to interfere in his life.",
+            "With my Oxo Goodgrips cheese knife, I stab at thee!",
+            "I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness.",
+            "I was having the most wonderful dream. Except you were there, and you were there, and you were there!",
+            "That's not a career, more of a felony.",
+            "That's not a warning! A warning's supposed come before something bad happens.",
+            "This is my first visit to the Galaxy of Terror and I'd like it to be a pleasant one.",
+            "This isn't heaven! It just looks exactly like it and makes us immortal! Which I find suspicious.",
+            "Unit 10 - Target H, 16K - niner, niner! Go left - I mean right!",
+            "What is the secret of time travel doing on Fry's ass?",
+            "Do you have idiots on your planet?",
+            "He opened up relations with China. He doesn't want to hear about your ding-dong.",
+            "I'm a millionaire! Suddenly I have an opinion about the capital gains tax.",
+            "My old life wasn't as glamorous as my webpage made it look.",
+            "No, Leela will show you out.",
+            "There's a political debate on. Quick, change the channel!",
+            "This is by a wide margin the least likely thing that has ever happened.",
+            "This toads the wet sprocket.",
+            "This wangs chung.",
+            "You did the best you could, I guess, and some of these gorillas are okay."
+        ],
+        "id": 2
+    },
+    {
+        "name": {
+            "first": "Bender",
+            "middle": "Bending",
+            "last": "Rodriguez"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png"
+        },
+        "age": "25",
+        "gender": "Male",
+        "species": "Robot",
+        "homePlanet": "Earth",
+        "occupation": "Planet Express Worker",
+        "sayings": [
+            "001100010010011110100001101101110011",
+            "Awwww, its anus looks like an asterisk!",
+            "Ah, computer dating. It's like pimping, but you rarely have to use the phrase 'upside your head'.",
+            "And the awkward meter goes up another notch. Ding-ding-ding-ding.",
+            "Are all the tests gonna involve drinking?",
+            "Behold, the internet.",
+            "Bender knows love, and love doesn't share itself with the world. Love is suspicious, love is needy. Love is fearful, love is greedy. My friends, there is no great love without great jealousy! I love you meatbags!",
+            "Bender must be stoped!  I've gone too far!  Who does that guy think I am!?",
+            "Bite my shiny metal ass.",
+            "Dumb-Dumb away!",
+            "Emotions are dumb and should be hated.",
+            "Finally, we made it out of that godforsaken cave! So what's the fastest way home, back through the cave?",
+            "Fry! Quit doing the right thing, you jerk!",
+            "Granted, it's not on the list of approved bendables, but I'm... so... great!",
+            "Hasta la vista, Meatbag!",
+            "Have you ever tried just turning off the TV, sitting down with your children, and hitting them?",
+            "Hey, I don't tell you how to tell me what to do, so don't tell me how to do what you tell me to do!",
+            "Hey that punk stole our hood ornament! Now no one will know we have the LX Package!",
+            "Hey, what kinda party is this? There's no booze and only one hooker.",
+            "Humans are dumb and they die easy.",
+            "Humans dating robots is sick. You people wonder why I'm still single? It's 'cause all the fine robot sisters are dating humans!",
+            "I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh... also, comes with double prize money.",
+            "I don't blame myself, I blame all of you!",
+            "I guess if you want children beaten, you have to do it yourself.",
+            "I'm Bender, please insert liquor!",
+            "I love this planet! I've got wealth, fame, and access to the depths of sleaze that those things bring.",
+            "I'm sorry, guys. I never meant to hurt you. Just to destroy everything you ever believed in.",
+            "Interesting. No, wait, the other thing, tedious.",
+            "Into the breach meatbags...or not. Whatever.",
+            "I support and oppose many things, but not strongly enough to pick up a pen.",
+            "It's not all about money; although I would like much much more.",
+            "It's not on the list of approved bendable materials but...  I'm...  the...  greatest!",
+            "I was having a Martini drinking contest with the autopilot.  I would have had him this time but we ran out of olives.",
+            "Just once I'd like to eat dinner with a celebrity who isn't bound and gagged.",
+            "Nailed it!",
+            "No, he's not a zombie. But I don't want people to think I'm incompetent, so I'd better kill you just to be sure.",
+            "No. I'm going to be a stalker.",
+            "No! I want to live! There's still too many things I don't own!",
+            "No, that's a hobo and a rabbit, but they're making a hobbit.",
+            "Of all the friends I've had... you're the first.",
+            "Robot 1-X, save my friends! And Zoidberg!",
+            "Sweet photons. I don't know if you're waves or particles, but you go down smooth!",
+            "Then a damned army we shall have!",
+            "There's gas in our ass!",
+            "This is the worst kind of discrimination the kind against me!",
+            "Watcha doin', mini-meatbags? Underage gambling? Shame on you. Count me in",
+            "Well if the League of Robots isn't real, how come I had a whole sticker-book of 'em when I was younger? Answer that with your precious logic!",
+            "Well, we're boned!",
+            "While I was hacking off the Professor's hand with an extremely dull saw, I had time to think. Who could use a doomsday device more, the scammers, or me, Bender? After several minutes of steady sawing, I had the answer. Me, Bender!",
+            "You may have to 'metaphorically' make a deal with the 'devil.' And by 'devil,' I mean Robot Devil. And by 'metaphorically,' I mean get your coat.",
+            "Your best is an idiot!",
+            "Ah crap, I'm some sort of robot!",
+            "Ahhh, functional.",
+            "Alright! Closure!",
+            "And I bet it's gonna get a lot more confusing.",
+            "An upgrade? I thought we all agreed I was perfect.",
+            "Are you familiar with the old robot saying 'does not compute'?",
+            "A woman like that you gotta romance first!",
+            "Aw, this bends!",
+            "Bender knows when to use finesse.",
+            "Bender's a genius!",
+            "Bite my shiny, metal ass!",
+            "Boy, were we suckers!",
+            "Boy, who knew a cooler could also make a handy wang coffin?",
+            "But-- those girls don't wear cases! You can see their bare circuits!",
+            "Care to contribute to the Anti-Mugging-You Fund?",
+            "Comedy's a dead art form. Now tragedy -- THAT'S funny.",
+            "Crippling pain? That's not covered by my insurance fraud.",
+            "Curse my natural showmanship!",
+            "Curse you, merciful Poseidon!",
+            "Down with Bender!",
+            "Emotions are dumb and should be hated.",
+            "Farewell, big blue ball of idiots!",
+            "Fathero!",
+            "Float like a floatbox, sting like an automatic stingin' machine.",
+            "Fry, of all the friends I've had ... you're the first.",
+            "Gimme your biggest, strongest, cheapest drink.",
+            "Hey Fry, I'm steering with my ass!",
+            "Hooray, we don't have to do anything!",
+            "I am a hideous triumph of form and function.",
+            "I choose to not understand these signs!",
+            "I hate people who love me. And they hate me.",
+            "I'm a fraud. A poor, lazy, sexy fraud.",
+            "I'm an outdated piece of junk.",
+            "I'm not allowed to sing. Court order.",
+            "I'm one of those lazy, homeless bums I've been hearing about.",
+            "I'm so embarrassed. I wish everybody else was dead.",
+            "I'm tired of this room and everyone in it!",
+            "In the event of an emergency, my ass can be used as a flotation device.",
+            "I only know enough binary to ask where the bathroom is.",
+            "I only speak enough binary to ask where the bathroom is.",
+            "I've gone too far! Who does that guy think I am?",
+            "Let's commence preparations for rumbling!",
+            "Lick my frozen, metal ass!",
+            "Life is hilariously cruel.",
+            "Like most of life's problems, this one can be solved with bending.",
+            "Listen up, cause I got a climactic speech.",
+            "My full name is Bender Bending Rodriguez.",
+            "My life, and by extension everyone else's, is meaningless.",
+            "nogoodlawsprotectingtheinnocent--",
+            "Nothing like a warm fire and a super-soaker of fine cognac.",
+            "Now that's hospital dancing.",
+            "Oh no! Not the magnet!",
+            "Oh, so, just 'cause a robot wants to kill humans that makes him a radical?",
+            "OK, but I don't want anyone thinking we're robosexuals.",
+            "Professor! Make a woman out of me!",
+            "Senseless death! The folk singer's best friend!",
+            "Shooting DNA at each other to make babies. I find it offensive!",
+            "Since I love you all so much, I'd like to give everyone hugs.",
+            "Stop doing the right thing, you jerk!",
+            "Stupid anti-pimping laws!",
+            "That's not my gold-plated 25-pin connector.",
+            "The laws of science be a harsh mistress.",
+            "The modern world can bite my splintery, wooden ass!",
+            "There! That oughtta convert a few tailgaters.",
+            "The sparks keep me warm.",
+            "They're tormenting me with uptempo singing and dancing!",
+            "This guy's not making any sense. Can I kill him? Please?",
+            "Try this, kids at home!",
+            "Wait! My cheating unit malfunctioned! You gotta give me a do-over!",
+            "Want me to smack the corpse around a little?",
+            "Well I don't have anything else planned for today, let's get drunk!",
+            "We're both expressible as the sum of two cubes!",
+            "Whaddya say, folks? Hot or not?",
+            "When will man learn that all races are equally inferior to robots?",
+            "Whoever's directing this is a master of suspense!",
+            "Why would God think in binary?",
+            "Woohoo, I'm popular!",
+            "Would we have donkeys?",
+            "Yes! I got the most! I win X-Mas!",
+            "You can't count on God for jack! He pretty much told me so himself.",
+            "You just lost five dollars.",
+            "Haha, you humans and your organs. One little stab to the goo, and grrrrsplttt!",
+            "Yea, I was God once. God:Yes, I saw. You were doing well until everyone died."
+        ],
+        "id": 3
+    },
+    {
+        "name": {
+            "first": "Hubert",
+            "middle": "J",
+            "last": "Farnsworth"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://upload.wikimedia.org/wikipedia/en/0/0f/FuturamaProfessorFarnsworth.png"
+        },
+        "age": "210",
+        "gender": "Male",
+        "species": "Human",
+        "homePlanet": "Earth",
+        "occupation": "Scientist",
+        "sayings": [
+            "Bender! Stop killing for a minute!",
+            "Because your apartment smells like Polygrip and cat pee!",
+            "Amy, technology isn't intrinsically good or evil. It's how it's used, like the death ray. ",
+            "Just slow it down, I'll shoot Hitler out the window. Darn, I hit Eleanor Roosevelt by mistake!",
+            "Just 'cause I'm stupider than them, they think they're smarter than me!",
+            "Dear God, they'll be killed on our doorstep! And there's no trash pickup until January 3rd.",
+            "Doomsday device? Ah, now the ball's in Farnsworth's court! I suppose I could part with one and still be feared…",
+            "Everybody out of the conference room! I'm calling a conference!",
+            "Goodbye, cruel world. Goodbye, cruel lamp. Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin and the cute little pom-pom curtain pull cords. Cruel though they may be...",
+            "Good God! Just knowing we're in the same genus makes me embarrassed to call myself homo!",
+            "Good news, everyone! I've taught the toaster to feel love!",
+            "Good news, everyone! There's a report on TV with some very bad news!",
+            "I am calling a mandatory company meeting. To the mandatorium!",
+            "I can wire anything directly into anything - I'm the professor!",
+            "I'm sciencing as fast as I can!",
+            "I've got to find a way to escape the horrible ravages of youth. Suddenly, I'm going to the bathroom like clockwork, every three hours. And those jerks at Social Security stopped sending me checks. Now I have to pay them!",
+            "Less invasions, more equations!",
+            "Nothing is impossible. Not if you can imagine it. That's what being a scientist is all about.",
+            "Now I've often said 'Good news' when sending you on a mission of extreme danger. So when I say this anomaly is dangerous, you can imagine how dangerous I really think it is.",
+            "Now, now. Perfectly symmetrical violence never solved anything.",
+            "Of course Fry, show me where on this anatomically correct doll where he touched you.",
+            "Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.",
+            "Oh, dreadfully real. If you die here you'll really be dead. But instead of science we believe in crazy hocus pocus. It's sort of like Kansas.",
+            "Oh, I always feared he might run off like this. Why, why, why didn't I break his legs?",
+            "Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain.",
+            "Oh, I never knew how much I'd miss him until he was gone! Not that much, as it turns out.",
+            "That proves nothing! And furthermore, you'd think I could remember a thing like that; plus, who are you anyway?",
+            "There's just one little problem, and it's a big one.",
+            "There's one way and only one way to determine if an animal is intelligent. Dissect its brain!",
+            "To better understand the anomaly, I will test its effects on this Giant Medium-Sized Ant.",
+            "Well, then good news! It's a suppository.",
+            "Who did this? Answer now or be punished.",
+            "Yes, it's the apocalypse all right. I always thought I'd have a hand in it.",
+            "Your squad sucks bosons! My team is twice as qualified and three times as expendable!"
+        ],
+        "id": 4
+    },
+    {
+        "name": {
+            "first": "Amy",
+            "middle": "",
+            "last": "Wong"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/9/94/AmyWong.png"
+        },
+        "age": "30",
+        "gender": "Female",
+        "species": "Martian",
+        "homePlanet": "Mars",
+        "occupation": "Intern",
+        "sayings": [
+            "Ew, pukeatronic!",
+            "Hey, let's go car shopping! My parents said if I got all B's they'd buy me a bar. And I got all C's!",
+            "Hey Professor, what's all this scrumpf blorking out of the machine?",
+            "Well, yes. But that's not revelant.",
+            "Shoo! Stay away from my babies!",
+            "Oh, God! I'm having a Serengeti flashback! Die, you dirty giraffe!",
+            "I'm too rich to be kidnapped!"
+        ],
+        "id": 5
+    },
+    {
+        "name": {
+            "first": "Hermes",
+            "middle": "",
+            "last": "Conrad"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/0/0d/Hermes.png"
+        },
+        "age": "52",
+        "gender": "Male",
+        "species": "Human",
+        "homePlanet": "Earth",
+        "occupation": "Bureaucrat and Accountant",
+        "sayings": [
+            "Without my body, I'm a nobody.",
+            "I'm hungrier than a green snake in a sugar cane field.",
+            "When push comes to shove, you've got to do what you love, even if it's not a good idea.",
+            "Like my granny used to say back in her tar paper shack on Montego Bay, 'If you want a box thrown into the sun, you got to do it yourself.' God rest her zombie bones.",
+            "My Speedos!",
+            "My manwich!",
+            "Welcome to stampy-town, population five.",
+            "That's a calculator. I ate it to gain its power.",
+            "Sweet giant anteater of Santa Anita!",
+            "Sweet something... of... someplace..."
+        ],
+        "id": 6
+    },
+    {
+        "name": {
+            "first": "Carol",
+            "middle": "",
+            "last": "Mom"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/d/d9/Mom.png"
+        },
+        "age": "150",
+        "gender": "Female",
+        "species": "Human",
+        "homePlanet": "Earth",
+        "occupation": "Mega-tycoon owner of Mom's Friendly Robot Company",
+        "sayings": [
+            "Jam a bastard in it, you crap!"
+        ],
+        "id": 7
+    },
+    {
+        "name": {
+            "first": "John",
+            "middle": "A",
+            "last": "Zoidberg"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/4/4a/Dr_John_Zoidberg.png"
+        },
+        "age": "40",
+        "gender": "Male",
+        "species": "Decapodian",
+        "occupation": "Staff doctor",
+        "sayings": [
+            "My name isn't Slick, it's Zoidberg. John fucking Zoidberg!!",
+            "In my experience, boxes are usually empty, sometimes with a little cheese stuck to the top, and one time pepperoni, what a day that was!",
+            "The female Leela's problem is purely medical, soon she will lay her eggs and they will hatch and all will be well.",
+            "Fry, it's been years since medical school, so remind me. Disemboweling in your species: fatal, or non-fatal?",
+            "Friends, help! A guinea pig tricked me!",
+            "I saw a frilly cake in here you would remember all your life. I know I will. Late at night it haunts me with its frosty beauty. [shouting] Order the cake, dammit!!",
+            "Look, coupons! I can get two oil changes for the price of one. Now, if I could only afford the one... and the car. Ah, the years! So many memories, so many strange fluids gushing out of patients' bodies.",
+            "Switch bodies? I don't see why not. I also don't see why."
+        ],
+        "id": 8
+    },
+    {
+        "name": {
+            "first": "Zapp",
+            "middle": "",
+            "last": "Brannigan"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/7/73/Zapp-Brannigan.png"
+        },
+        "age": "40",
+        "gender": "Male",
+        "species": "Human",
+        "occupation": "Captain",
+        "sayings": [
+            "All good things must come to an end, preferably in a humongous explosion.",
+            "Oh yea, bathtub minestrone.",
+            "Bender here has identified the femdito commander as my ex-lover, Turanga Leela, whom I once made love at.",
+            "Captaining 101: Go for the nose!",
+            "I am the man with no name, Zapp Brannigan!",
+            "Ladies, you're under arrest. Prepare to be boarded again and again.",
+            "Me like snu-snu!",
+            "My bloodhound-like instincts must have hunted them down while my other parts were throbbing to Duran Duran.",
+            "Same speed ahead!",
+            "Something is very wrong here. And yet, a bit right.",
+            "Spare me your space age technobabble, Attila the Hun!",
+            "The alien mothership is in orbit here. If we can hit that bullseye, the rest of the dominoes will fall like a house of cards. Checkmate.",
+            "We fight this battle not for ourselves, but for our children, and our children's children, which is why I'm forming a children's brigade.",
+            "We need rest. The spirit is willing, but the flesh is spongy and bruised."
+        ],
+        "id": 9
+    },
+    {
+        "name": {
+            "first": "",
+            "middle": "",
+            "last": "Lrrr"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/c/c5/Lurr.png"
+        },
+        "age": "Unknown",
+        "gender": "Male",
+        "species": "Omicronian",
+        "occupation": "Ruler of Omicron Persei 8",
+        "sayings": [
+            "Okay, Yivo showed us a good time. No one's denying that, but shklee hasn't offered our universe any kind of commitment, and we're 14 billion years old - That is too old to play the field.",
+            "If McNeal wishes to be taken seriously why does she not simply tear the judge's head off?",
+            "My weight is appropriate and attractive.",
+            "One of these days Ndnd, bang, zoom, straight to the third moon of Omicron Persei 8!",
+            "This concept of 'wuv' confuses and infuriates us!",
+            "I think there was something funny in that hippie.",
+            "I AM LRRR, RULER OF THE PLANET OMICRON PERSEI 8! May I crash on your couch?"
+        ],
+        "id": 10
+    },
+    {
+        "name": {
+            "first": "Scruffy",
+            "middle": "",
+            "last": "Scruffington"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/1/10/Scruffy.png"
+        },
+        "age": "53",
+        "gender": "Male",
+        "species": "Human",
+        "occupation": "Janitor",
+        "sayings": [
+            "I'm Scruffy. The janitor."
+        ],
+        "id": 11
+    },
+    {
+        "name": {
+            "first": "Cubert",
+            "middle": "J",
+            "last": "Farnsworth"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/7/7e/CubertFarnsworth.png"
+        },
+        "age": "13",
+        "gender": "Male",
+        "species": "Human",
+        "occupation": "Co-owner of Awesome Express",
+        "sayings": [
+            "What? You've never seen a genius's wiener before?"
+        ],
+        "id": 12
+    },
+    {
+        "name": {
+            "first": "Kif",
+            "middle": "",
+            "last": "Kroker"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/8/88/Kif-Kroker.png"
+        },
+        "age": "32",
+        "gender": "Male",
+        "species": "Amphibiosans",
+        "occupation": "DOOP (Executive Officer) ",
+        "sayings": [
+            "I love it out here, Amy. I feel so manly. I have a blister, I-I spit! A-And of course, I tell no one my feelings, until I write them in my dairy."
+        ],
+        "id": 13
+    },
+    {
+        "name": {
+            "first": "Dwight",
+            "middle": "",
+            "last": "Conrad"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/d/d7/Dwight.png"
+        },
+        "age": "12",
+        "gender": "Male",
+        "species": "Human",
+        "occupation": "Co-owner of Awesome Express",
+        "sayings": [
+            "I'm gonna take this and buy five shares of Amazon.com"
+        ],
+        "id": 14
+    },
+    {
+        "name": {
+            "first": "LaBarbara",
+            "middle": "",
+            "last": "Conrad"
+        },
+        "images": {
+            "head-shot": "",
+            "main": "https://static.wikia.nocookie.net/enfuturama/images/e/e4/LaBarbara_Conrad-1-.jpg"
+        },
+        "age": "35",
+        "gender": "Female",
+        "species": "Human",
+        "occupation": "",
+        "sayings": [
+            "All in favor of the Jamoka-Thunderclap? That would be me."
+        ],
+        "id": 15
+    }
+]
